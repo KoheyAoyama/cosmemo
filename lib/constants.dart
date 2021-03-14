@@ -16,5 +16,4 @@ const MaterialColor customSwatch =
 });
 const int _customPrimaryValue = 0xFFEB6EA5;
 
-// White spaces
-const double kDefaultPadding = 20.0;
+const Color customAccentColor = Color(0xFF89C3EB);
